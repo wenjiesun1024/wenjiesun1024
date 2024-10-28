@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wenjie Sun</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I’m currently working on **Hotstar**
+- 🔭 I’m currently working on **PinDuoDuo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
